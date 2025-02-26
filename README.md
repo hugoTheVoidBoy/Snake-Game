@@ -1,4 +1,4 @@
-# Cpp-Snake
+# Snake Game C++
 A simple snake game in c++
 
 To run this game, follow these instruction in your cmd:
